@@ -719,7 +719,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 36.0,
+		"height": 186.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -1258,12 +1258,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/buckle2000/project/frag/LOVE/ld37-warmup"
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/lib",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/lib/hump"
 	],
 	"file_history":
 	[
-		"/C/buckle2000/project/frag/LOVE/ld37-warmup/_suml.sublime-project",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/README.md",
 		"/C/buckle2000/project/frag/LOVE/ld37-warmup/main.lua",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/utils.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/conf.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/utils.lua",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/_suml.sublime-project",
 		"/C/buckle2000/project/frag/LOVE/minestepper/proj.sublime-project",
 		"/C/Users/buckle2000/Desktop/test/main.lua",
 		"/C/buckle2000/project/major/minestepper/compiled/main.lua",
@@ -1385,11 +1391,7 @@
 		"/C/buckle2000/project/major/Breakpoint/src/state/base.lua",
 		"/C/buckle2000/project/lib/bump.lua/demo/conf.lua",
 		"/C/buckle2000/project/major/Breakpoint/src/state/testplayer/init.lua",
-		"/C/buckle2000/project/major/Breakpoint/src/state/testmap/init.lua",
-		"/C/buckle2000/project/major/Breakpoint/src/lib/sti/sti/init.lua",
-		"/C/buckle2000/project/frag/LOVE/heist/main.lua",
-		"/C/buckle2000/project/major/Breakpoint/src/tr/init.lua",
-		"/C/buckle2000/project/major/Breakpoint/src/lib/bump.lua"
+		"/C/buckle2000/project/major/Breakpoint/src/state/testmap/init.lua"
 	],
 	"find":
 	{
