@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"cmd": ["start", "cmd", "/c", "run.bat"],
+			"file_regex": "^(?:.+):([0-9]+): (.*)$",
+			"name": "Custom_Love",
+			"selector": "source.moonscript",
+			"shell": true,
+			"working_dir": "$project_path"
+		}
+	]
+}
