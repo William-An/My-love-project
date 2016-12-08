@@ -1,0 +1,1679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"til",
+				"TILE_MAP"
+			],
+			[
+				"object",
+				"object-fit"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"listst",
+				"list-style-position"
+			],
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"script",
+				"script_name"
+			],
+			[
+				"behavir",
+				"Behavior"
+			],
+			[
+				"pathme",
+				"PATH_MATERIAL_IMAGE\tstatement"
+			],
+			[
+				"mapmask",
+				"MAP_MASK_GROUND"
+			],
+			[
+				"map",
+				"PATH_ASSETS_MAP"
+			],
+			[
+				"ini",
+				"initial_value"
+			],
+			[
+				"roominfo",
+				"room_info"
+			],
+			[
+				"Version",
+				"PROTOCOL_VERSION"
+			],
+			[
+				"DISCON",
+				"DISCONNECT_VERSION_MISMATCH"
+			],
+			[
+				"netw",
+				"network_states"
+			],
+			[
+				"serverpr",
+				"server_property"
+			],
+			[
+				"upd",
+				"update_local"
+			],
+			[
+				"new",
+				"new_txt"
+			],
+			[
+				"frame",
+				"frame_count"
+			],
+			[
+				"spr",
+				"spr_choices"
+			],
+			[
+				"conn",
+				"connections"
+			],
+			[
+				"my",
+				"my_uuid"
+			],
+			[
+				"ser",
+				"search_server"
+			],
+			[
+				"draw",
+				"love.graphics.draw(texture, quad, x, y, r, sx, sy, ox, oy, kx, ky)"
+			],
+			[
+				"keyboard",
+				"keyboard_ctrl"
+			],
+			[
+				"updat",
+				"update_func"
+			],
+			[
+				"setLine",
+				"love.graphics.setLineWidth(width)"
+			],
+			[
+				"setline",
+				"love.graphics.setLineStyle(style)"
+			],
+			[
+				"setfont",
+				"love.graphics.setFont(font)"
+			],
+			[
+				"newcan",
+				"love.graphics.newCanvas()"
+			],
+			[
+				"im",
+				"img_path"
+			],
+			[
+				"w",
+				"with_traceback\tfunction"
+			],
+			[
+				"asser",
+				"assert_not_exist\tfunction"
+			],
+			[
+				"decode",
+				"decodestring\tfunction"
+			],
+			[
+				"de",
+				"decodestring\tfunction"
+			],
+			[
+				"ass",
+				"assert_exist\tfunction"
+			],
+			[
+				"onAdd",
+				"onAddToWorld"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"File",
+				"FileExistsError\tclass"
+			],
+			[
+				"tex",
+				"texture_coords"
+			],
+			[
+				"IMAGE",
+				"PATH_ASSETS_IMAGE"
+			],
+			[
+				"gimp",
+				"EXE_GIMP"
+			],
+			[
+				"spli",
+				"splitext\tfunction"
+			],
+			[
+				"mater",
+				"PATH_MATERIAL"
+			],
+			[
+				"EXE",
+				"EXE_TILED\tstatement"
+			],
+			[
+				"phys",
+				"physics_world"
+			],
+			[
+				"Grid",
+				"GRID_SIZE"
+			],
+			[
+				"invoke",
+				"invoke_all"
+			],
+			[
+				"sys",
+				"sys_alias"
+			],
+			[
+				"player_",
+				"player_grid"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"ke",
+				"love.keypressed(key, isrepeat)"
+			],
+			[
+				"for",
+				"for\tfor i=1,10"
+			],
+			[
+				"off",
+				"offset_y"
+			],
+			[
+				"phy",
+				"phy_cp"
+			],
+			[
+				"actual",
+				"actualX"
+			],
+			[
+				"world",
+				"world_matrix"
+			],
+			[
+				"start",
+				"start_scene"
+			],
+			[
+				"scne",
+				"new_scene"
+			],
+			[
+				"scene",
+				"scene_map"
+			],
+			[
+				"sc",
+				"scene_list"
+			],
+			[
+				"tr",
+				"love.graphics.translate(dx, dy)"
+			],
+			[
+				"acti",
+				"active_entities"
+			],
+			[
+				"op",
+				"operation\tparam"
+			],
+			[
+				"gra",
+				"graphics"
+			],
+			[
+				"link",
+				"Link\tclass"
+			],
+			[
+				"beh",
+				"behavior_class"
+			],
+			[
+				"glo",
+				"global_count"
+			],
+			[
+				"pow",
+				"power_of_two\tstatement"
+			],
+			[
+				"cp_",
+				"cp_type"
+			],
+			[
+				"gr",
+				"GraphicsComponent"
+			],
+			[
+				"Gr",
+				"GraphicsComponent"
+			],
+			[
+				"compoen",
+				"components"
+			],
+			[
+				"com",
+				"component_map"
+			],
+			[
+				"ent",
+				"Entity"
+			],
+			[
+				"line",
+				"love.graphics.line(points)"
+			],
+			[
+				"compl",
+				"complete_eval\tfunction"
+			],
+			[
+				"it",
+				"iter_count"
+			],
+			[
+				"iter_",
+				"iter_escape_helper"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"mouse",
+				"love.mousepressed(x, y, button, istouch)"
+			],
+			[
+				"ge",
+				"love.mouse.getPosition()"
+			],
+			[
+				"value",
+				"value_pairs"
+			],
+			[
+				"cons",
+				"cons-all"
+			],
+			[
+				"stagg",
+				"staggerX"
+			],
+			[
+				"newim",
+				"love.image.newImageData(width, height)"
+			],
+			[
+				"lambda",
+				"do_lambda_form"
+			],
+			[
+				"eval",
+				"eval_all\tfunction"
+			],
+			[
+				"aft",
+				"after_that\tstatement"
+			],
+			[
+				"sche",
+				"scheme_append\tfunction"
+			],
+			[
+				"SCheerr",
+				"SchemeError\tclass"
+			],
+			[
+				"setscs",
+				"love.graphics.setScissor()"
+			],
+			[
+				"print",
+				"love.graphics.printf(text, x, y, limit, align)"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"make",
+				"make-exp"
+			],
+			[
+				"hex",
+				"hexdigits\tinstance"
+			],
+			[
+				"oper",
+				"operands\tparam"
+			],
+			[
+				"setnam",
+				"setResultsName\tfunction"
+			],
+			[
+				"a",
+				"alphas\tstatement"
+			],
+			[
+				"Zero",
+				"ZeroOrMore\tclass"
+			],
+			[
+				"pro",
+				"proxy_mt"
+			],
+			[
+				"is_",
+				"is_leaf"
+			],
+			[
+				"update",
+				"update_last_hold"
+			],
+			[
+				"text",
+				"texture_coords"
+			],
+			[
+				"cou",
+				"count_down\tfunction"
+			],
+			[
+				"inst",
+				"in_status\tstatement"
+			],
+			[
+				"Scu",
+				"ScubaThrower\tclass"
+			],
+			[
+				"dam",
+				"damage_doubled"
+			],
+			[
+				"Sc",
+				"ScubaThrower\tclass"
+			],
+			[
+				"Queen",
+				"QueenAnt\tclass"
+			],
+			[
+				"has",
+				"has_queen\tstatement"
+			],
+			[
+				"Quee",
+				"QueenAnt"
+			],
+			[
+				"Body",
+				"BodyguardAnt\tclass"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"redu",
+				"reduce_armor\tfunction"
+			],
+			[
+				"random",
+				"random_or_none\tfunction"
+			],
+			[
+				"Thrower",
+				"ThrowerAnt\tclass"
+			],
+			[
+				"pla",
+				"player_pos"
+			],
+			[
+				"curr",
+				"current_range\tstatement"
+			],
+			[
+				"entran",
+				"entrance"
+			],
+			[
+				"reduce",
+				"reduce_armor"
+			],
+			[
+				"score",
+				"tween_score"
+			],
+			[
+				"with",
+				"withdraw\tparam"
+			],
+			[
+				"wit",
+				"withdraw\tparam"
+			],
+			[
+				"joy",
+				"joystick_players"
+			],
+			[
+				"last",
+				"latest_touch_player"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Custom_Love",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Custom_Love",
+					""
+				],
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Custom_Love",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Custom_Love",
+					""
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					""
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: show output"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"love: run project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"love: run file"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: compile project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: run lint on file"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: run lint on project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Custom_Love",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeLove/Love.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					""
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: show output"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"love: run project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"love: run file"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: compile project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: run lint on file"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"moonc: run lint on project"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Moonscripty/Moonscript.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Moonscripty/Moonscript.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 36.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"trimmer trai",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"trimmer",
+				"Trimmer: Tokenize string."
+			],
+			[
+				"css ",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Channel"
+			],
+			[
+				"tra",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"delete",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"empty",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"traling",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trimm sp",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"timmer trail",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"build",
+				"Build With: Custom_Love"
+			],
+			[
+				"build with",
+				"Build With: Custom_Love"
+			],
+			[
+				"buildwith cus",
+				"Build With: Custom_Love"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"trai",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enag",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"leadin",
+				"Trimmer: Trim leading whitespace."
+			],
+			[
+				"tr",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trimmer empty",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"INDENT",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"snippet",
+				"Snippet: function"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"trimmer tra",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"racket",
+				"SublimeREPL: Racket"
+			],
+			[
+				"run re",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl sche",
+				"SublimeREPL: Scheme"
+			],
+			[
+				"trialing",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"trimmer space",
+				"Trimmer: Normalize spaces."
+			],
+			[
+				"snippet\t",
+				"Snippet: function"
+			],
+			[
+				"able",
+				"Package Control: Enable Package"
+			],
+			[
+				"able pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis\t",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"reins",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"apa",
+				"Build With: Pandoc-APA - Run"
+			],
+			[
+				"tri leading",
+				"Trimmer: Trim leading whitespace."
+			],
+			[
+				"oneline",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":bn",
+				"Build: New Build System"
+			],
+			[
+				":help",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"add al",
+				"Git: Add All"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"addal",
+				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"trimmer coll",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"packageli",
+				"Package Control: List Packages"
+			],
+			[
+				"repl lua",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"repl lu",
+				"SublimeREPL: Lua"
+			],
+			[
+				"trail",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"displ",
+				"Package Control: Disable Package"
+			],
+			[
+				"code foldi",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"format",
+				"FormatLua: Format Lua code"
+			],
+			[
+				"syna love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sets love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"update",
+				"Haxelib: Update library"
+			],
+			[
+				"open",
+				"Terminal: Open"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl",
+				"SublimeREPL: Racket"
+			],
+			[
+				"repl scheme",
+				"SublimeREPL: Scheme"
+			],
+			[
+				"package control ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"haxe",
+				"Haxe: Run build"
+			],
+			[
+				"paclage",
+				"Package Control: List Packages"
+			],
+			[
+				"res",
+				"Haxe: Restart Server"
+			],
+			[
+				"target",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"bui",
+				"Build With: Love"
+			],
+			[
+				"love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list",
+				"Haxelib: List Installed"
+			],
+			[
+				"re",
+				"Haxe: Restart Server"
+			],
+			[
+				"trimer",
+				"Trimmer: Collapse lines."
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"restart",
+				"Haxe: Restart Server"
+			],
+			[
+				"anable",
+				"Package Control: Enable Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"trimmer ",
+				"Trimmer: Trim leading whitespace."
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"os.system(\"love .\")",
+			"os.system(\"love\")",
+			"os.system",
+			"import os",
+			"sys.system",
+			"import sys"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup"
+	],
+	"file_history":
+	[
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/_suml.sublime-project",
+		"/C/buckle2000/project/frag/LOVE/ld37-warmup/main.lua",
+		"/C/buckle2000/project/frag/LOVE/minestepper/proj.sublime-project",
+		"/C/Users/buckle2000/Desktop/test/main.lua",
+		"/C/buckle2000/project/major/minestepper/compiled/main.lua",
+		"/C/Users/buckle2000/Desktop/Chp16.txt",
+		"/C/HaxeToolkit/haxe/lib/flixel-demos/2,2,0/CHANGELOG.md",
+		"/C/HaxeToolkit/haxe/lib/flixel-demos/2,2,0/Performance/FlxRandom/readme.md",
+		"/C/buckle2000/project/frag/LOVE/itemselection/main.lua",
+		"/C/buckle2000/doc/高二上/个人信息/main.lua",
+		"/C/buckle2000/doc/高二上/个人信息/people.txt",
+		"/C/Users/buckle2000/AppData/Roaming/Sublime Text 3/Packages/MoonScript/README.md",
+		"/C/buckle2000/project/major/minestepper/main.moon",
+		"/C/buckle2000/project/major/minestepper/proj.sublime-project",
+		"/C/buckle2000/project/major/minestepper/learn.moon",
+		"/C/buckle2000/project/major/minestepper/conf.moon",
+		"/C/buckle2000/project/major/Breakpoint/breakpoint.sublime-project",
+		"/C/buckle2000/project/major/minestepper/main.lua",
+		"/C/Users/buckle2000/AppData/Local/Temp/7zO0FC59375/Love.sublime-completions",
+		"/C/Users/buckle2000/AppData/Roaming/Sublime Text 3/Packages/Moonscripty/Moonscript.sublime-settings",
+		"/C/Users/buckle2000/AppData/Local/Temp/7zO8EC8753B/Moonscript.sublime-build",
+		"/C/Users/BUCKLE~1/AppData/Local/Temp/7zE8EC39D2B/Moonscript.sublime-build",
+		"/C/buckle2000/project/major/minestepper/compiled/pl/data.lua",
+		"/C/buckle2000/project/major/minestepper/watch.bat",
+		"/C/Program Files/Lua/Moon/README.txt",
+		"/C/buckle2000/project/major/minestepper/moons/test.moon",
+		"/C/buckle2000/project/major/minestepper/pl/test.lua",
+		"/C/Program Files/Lua/5.1.4/systree/lib/luarocks/rocks/manifest",
+		"/C/Users/buckle2000/Desktop/download/更鸟工作站/Plugins/Particle.exe",
+		"/C/Users/buckle2000/Desktop/download/更鸟工作站/ChangeLog.txt",
+		"/C/Users/buckle2000/Desktop/download/更鸟工作站/软件使用要点.txt",
+		"/C/Users/buckle2000/Desktop/download/更鸟工作站/AM可能无效的命令.txt",
+		"/C/Users/buckle2000/Desktop/download/更鸟工作站/lib/common.gib",
+		"/C/buckle2000/project/major/love2d-threadpc/README.md",
+		"/C/Users/buckle2000/Desktop/download/STI Tech Demo.love",
+		"/C/buckle2000/project/major/minestepper/love._openConsole()",
+		"/C/buckle2000/doc/FRC/SlackVwechat.md",
+		"/C/buckle2000/project/major/Threadpc/README.md",
+		"/C/buckle2000/project/major/Threadpc/threadpc.lua",
+		"/C/buckle2000/project/major/the-pillar/network.lua",
+		"/C/buckle2000/project/major/the-pillar/main.lua",
+		"/C/buckle2000/project/major/the-pillar/lib/threadpc.lua",
+		"/C/buckle2000/project/major/the-pillar/core.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/lib/aseprite.lua",
+		"/C/buckle2000/project/lib/love-nuklear/example/main.lua",
+		"/C/buckle2000/project/frag/LOVE/love-0.9.1-win64/oh my giraffe/thread.lua",
+		"/C/buckle2000/project/lib/love-nuklear/example/16",
+		"/C/Users/buckle2000/Desktop/download/rimshot-win/Readshot.txt",
+		"/C/buckle2000/project/frag/LOVE/price-display/conf.lua",
+		"/C/buckle2000/project/frag/LOVE/price-display/main.lua",
+		"/C/buckle2000/software/v2ray-v1.13.1-windows-64/config.json",
+		"/C/buckle2000/software/swig/README",
+		"/C/buckle2000/doc/高二上/CPE/Saving for tomorrow.md",
+		"/C/buckle2000/software/LabChirp/Readme.txt",
+		"/C/buckle2000/doc/高二上/CPE/Saving for tomorrow",
+		"/C/buckle2000/project/www/buckle2000.github.io/posts.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/index.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/_includes/header.html",
+		"/C/Users/buckle2000/Desktop/download/LONG LIVE THE AXE [ FREE DEMO ]/chara.ini",
+		"/C/buckle2000/project/www/buckle2000.github.io/_layouts/default.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/_layouts/post.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/.gitignore",
+		"/C/buckle2000/project/www/buckle2000.github.io/_config.yml",
+		"/C/buckle2000/project/www/buckle2000.github.io/_includes/head.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/css/main.scss",
+		"/C/buckle2000/project/www/buckle2000.github.io/_sass/_reset.scss",
+		"/C/buckle2000/project/www/buckle2000.github.io/_site/css/main.css",
+		"/C/buckle2000/backup/passwords.txt",
+		"/C/buckle2000/project/www/buckle2000.github.io/css/main.css",
+		"/C/buckle2000/project/www/buckle2000.github.io/static/css/main.css",
+		"/C/buckle2000/project/www/buckle2000.github.io/static/css/bootstrap_min.css",
+		"/C/buckle2000/project/www/buckle2000.github.io/_site/index.html",
+		"/C/Users/buckle2000/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/buckle2000/Desktop/download/Sorcerobe demo/PLS_READ.txt",
+		"/C/Users/buckle2000/Desktop/download/Sorcerobe demo/levels/why.ini",
+		"/C/Users/buckle2000/Desktop/download/Sorcerobe demo/EDITOR_HELP.txt",
+		"/C/Users/buckle2000/Desktop/download/buckle2000.github.io.html",
+		"/C/buckle2000/project/www/buckle2000.github.io/_data/people.txt",
+		"/C/buckle2000/project/www/buckle2000.github.io/_subl.sublime-project",
+		"/C/buckle2000/project/www/buckle2000.github.io/_subl.sublime-workspace",
+		"/C/Users/buckle2000/Desktop/download/Trojan Mech-Default-1.0.0.2/options.ini",
+		"/C/Users/buckle2000/Desktop/download/SpaceHex/SpaceHex.exe",
+		"/C/buckle2000/project/www/buckle2000.github.io/_articles/test.md",
+		"/C/buckle2000/project/www/buckle2000.github.io/_articles/a/d.md",
+		"/C/buckle2000/project/www/buckle2000.github.io/_posts/2016-11-11-test.md",
+		"/C/Users/buckle2000/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/buckle2000/project/www/buckle2000.github.io/_posts/2016-11-15-perception-with-prediction.md",
+		"/C/buckle2000/image/Breakpoint-promotion/.gitattributes",
+		"/C/Ruby23/dev/config.yml",
+		"/C/buckle2000/project/www/buckle2000.github.io/README.md",
+		"/C/buckle2000/project/www/buckle2000.github.io/404.md",
+		"/C/buckle2000/project/www/buckle2000.github.io/index (2).html",
+		"/C/buckle2000/project/frag/LOVE/para-interception/vector.lua",
+		"/C/buckle2000/project/frag/LOVE/para-interception/main.lua",
+		"/C/buckle2000/doc/高二上/CPE/Culture/doc/reflection.md",
+		"/C/buckle2000/doc/高二上/CPE/Culture/doc/home.md",
+		"/C/Users/buckle2000/Desktop/新建文本文档.txt",
+		"/C/Users/buckle2000/Desktop/download/RuckingenurEditor/level1-remake/script.lua",
+		"/C/Program Files (x86)/Zachtronics Industries/Ruckingenur Two/readme.txt",
+		"/C/buckle2000/project/major/Breakpoint/Readme.md",
+		"/C/buckle2000/doc/高二上/CPE/Culture/doc/reflectio.txt",
+		"/C/buckle2000/doc/buckle2000.github.io/_config.yml",
+		"/C/buckle2000/doc/buckle2000.github.io/index.html",
+		"/C/buckle2000/doc/buckle2000.github.io/index (2).html",
+		"/C/buckle2000/doc/buckle2000.github.io/_posts/jekyll-now/CNAME",
+		"/C/buckle2000/doc/buckle2000.github.io/_posts/2016-11-11-test.md",
+		"/C/buckle2000/doc/buckle2000.github.io/_posts/test.md",
+		"/C/Users/buckle2000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Sodarized.sublime-package",
+		"/C/buckle2000/project/major/Breakpoint/refresh_assets.py",
+		"/C/buckle2000/project/major/Breakpoint/src/main.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/tiled/pipe.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/tiled/tileset.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/tiled/loader.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/state/testmap.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/behavior/player_controller.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/tiled/init.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/lib/sti/init.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/lib/hump/gamestate.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/ecs.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/assets/map/test2.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/state/base.lua",
+		"/C/buckle2000/project/lib/bump.lua/demo/conf.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/state/testplayer/init.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/state/testmap/init.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/lib/sti/sti/init.lua",
+		"/C/buckle2000/project/frag/LOVE/heist/main.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/tr/init.lua",
+		"/C/buckle2000/project/major/Breakpoint/src/lib/bump.lua"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"-lib/*",
+			"",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"安",
+			"size",
+			"width",
+			"pcproxy",
+			"font_fen",
+			"font_yuan",
+			"nav",
+			"p",
+			"static",
+			"nav",
+			"h1",
+			"ul",
+			"div",
+			"theme",
+			"polar",
+			"len",
+			"ss",
+			"tv",
+			"ts",
+			"###",
+			"prc",
+			"newBatch",
+			"batches",
+			"world",
+			"change_state",
+			"handler",
+			"lg",
+			"love.gra",
+			"resize",
+			"setDrawRange",
+			"get_",
+			"\\",
+			"physicscom",
+			"physicssys",
+			"for i,e",
+			"entity.transform",
+			"physicssys",
+			"physicscom",
+			"physics",
+			"cache",
+			"---",
+			"sizeof",
+			"ffi",
+			"behavior",
+			"add",
+			"addbeh",
+			".f",
+			"script_name",
+			"slide",
+			"emit",
+			"Entity",
+			"destroyed",
+			"movement",
+			"offset",
+			"filter",
+			"on_collision",
+			"phy_cp",
+			"e.physics.filter",
+			"e.behavior",
+			"on_col",
+			"Map",
+			"tiny.addentity",
+			"tiny_addentity",
+			"add",
+			"a",
+			":format",
+			"string.format",
+			"foreach",
+			"content",
+			"require",
+			"todo",
+			"format",
+			")\n",
+			"Behavior",
+			"behavior",
+			"requireAll",
+			"update",
+			"pre_update",
+			"offset",
+			"g",
+			"g_cp",
+			"g",
+			"g_cp",
+			"g",
+			"g_cp",
+			"g",
+			"offset",
+			"x",
+			"offset",
+			"mat3",
+			"anim8",
+			"mat3",
+			"affine2d",
+			"cpml",
+			"filename",
+			"reload",
+			"89",
+			"99",
+			"92",
+			"89",
+			"90",
+			"file",
+			"load_map",
+			"floor",
+			"fl",
+			"floor",
+			"damage",
+			"map",
+			"convention_name",
+			"map_init",
+			"load_map",
+			"process_player",
+			"load_map",
+			"col_matrix",
+			"load_image",
+			"check_script_name",
+			"Event",
+			"EVENT",
+			"Event",
+			"event",
+			"todo",
+			"addr",
+			"HandshakeDef",
+			"ClientPropertyDef",
+			"RoomPropertyDef",
+			"ServerPropertyDef",
+			"remote_protocol_version",
+			"peer_proto_version"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"for _,e",
+			"love.graphics.get",
+			"",
+			",",
+			"\\n\\n#\\n",
+			"",
+			"'",
+			".",
+			"class",
+			"middleclass(",
+			"\"",
+			"entitysys",
+			"1",
+			"self",
+			"-",
+			"range"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 186.0
+	},
+	"pinned_build_system": "",
+	"project": "_suml.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 89.0,
+		"last_filter": "readli",
+		"selected_items":
+		[
+			[
+				"readli",
+				"read_eval_print_loop"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
