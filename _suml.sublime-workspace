@@ -519,6 +519,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_suml.sublime-project",
+			"settings":
+			{
+				"buffer_size": 288,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Custom_Love",
 	"build_system_choices":
@@ -719,10 +736,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 36.0,
-		"last_filter": "",
+		"height": 748.0,
+		"last_filter": "list",
 		"selected_items":
 		[
+			[
+				"list",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"build",
+				"Build With: Custom_Love"
+			],
+			[
+				"buidl",
+				"Build With: Lua"
+			],
 			[
 				"list pack",
 				"Package Control: List Packages"
@@ -862,10 +891,6 @@
 			[
 				"timmer trail",
 				"Trimmer: Trim trailing whitespace."
-			],
-			[
-				"build",
-				"Build With: Custom_Love"
 			],
 			[
 				"build with",
@@ -1192,10 +1217,6 @@
 				"Markdown Preview: Preview in Browser"
 			],
 			[
-				"list",
-				"Haxelib: List Installed"
-			],
-			[
 				"re",
 				"Haxe: Restart Server"
 			],
@@ -1232,7 +1253,7 @@
 				"Trimmer: Trim leading whitespace."
 			]
 		],
-		"width": 514.0
+		"width": 721.0
 	},
 	"console":
 	{
@@ -1258,7 +1279,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/buckle2000/project/frag/LOVE/ld37-warmup"
+		"/C/Users/China/Desktop/ld37-warmup"
 	],
 	"file_history":
 	[
@@ -1393,7 +1414,7 @@
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -1573,14 +1594,73 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_suml.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 42.0
+		"height": 44.0
 	},
 	"input":
 	{
@@ -1625,7 +1705,7 @@
 	"project": "_suml.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 84.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1671,7 +1751,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 168.0,
+	"side_bar_width": 370.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
