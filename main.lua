@@ -1,6 +1,9 @@
 tostring = require("lib/inspect")
-U = require "utils"
-
+-- GS       = require("lib/hump.gamestate")
+Class    = require("lib/hump.class")
+Signal   = require("lib/hump.signal")
+Timer    = require("lib/hump.timer")
+U        = require("utils")
 table.seal(_G)
 -- no global variable declaration afterward!!!
 
@@ -13,12 +16,18 @@ local ball = {
 }
 local ww, hh = love.graphics.getDimensions()
 
+function reset()
+
+end
+love.load = reset
+
 function love.draw()
 	love.graphics.print("Helloworld", 300, 400)
 	love.graphics.circle("line", ball.x, ball.y, ball.r)
 end
 
 function love.update(dt)
+	Timer.update(dt)
 	ball.x=ball.x+ball.vx*dt
 	ball.y=ball.y+ball.vy*dt
 	if (hh-ball.y) < ball.r or ball.y<ball.r then 
@@ -29,5 +38,4 @@ function love.update(dt)
 		ball.vx = -ball.vx
 		ball.vx = ball.vx
 	end
-
 end
