@@ -8,10 +8,10 @@
 	"build_systems":
 	[
 		{
-			"cmd": ["start", "cmd", "/c", "run.bat"],
+			"cmd": ["start", "cmd", "/c", "love", "$project_path"],
 			"file_regex": "^(?:.+):([0-9]+): (.*)$",
 			"name": "Custom_Love",
-			"selector": "source.moonscript",
+			"selector": "source.lua",
 			"shell": true,
 			"working_dir": "$project_path"
 		}
