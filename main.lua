@@ -8,7 +8,9 @@ U      = require("utils")
 table.seal(_G)
 -- no global variable declaration afterward!!!
 
-function reset()
+local Drawable = require("drawable")
+
+local function reset()
 
 end
 love.load = reset
