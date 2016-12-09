@@ -13,7 +13,7 @@ local element={
 	center={10,10},
 	o = 0,
 	vertice={0,0,20,0,10,20},
-	p_vertice={-10,10,10,10,0,-10},
+	p_vertice={-10,10,10,10,0,-10},-- vertices' coordinate of center
 }
 local p_vertice=element.p_vertice
 local direction = {{"up",element.v},{"down",-element.v},{"left",-element.w},{"right",element.w}}
@@ -31,19 +31,19 @@ function love.update(dt)
 	Timer.update(dt)
 	Timer.every(4,function()
 		element.center={math.floor(math.random(1,ww)),math.floor(math.random(1,hh))}
-		Timer.clear()--
-	end)
+		Timer.clear()
+	end) -- Teleporate randomly every 8 seconds
 	love.graphics.print(Timer)
 	for i,v in ipairs(direction) do
 		if love.keyboard.isDown(v[1]) then
 			if i > 2 then
-				element.o=element.o+dt*v[2]
+				element.o=element.o+dt*v[2] -- Get current angle
 				angle=angle+element.o
 				--angle=math.floor(angle)
 				print("[angle]"..angle)
 			else
-				element.center[1]=element.center[1]+dt*math.sin(angle)*v[2]
-				element.center[2]=element.center[2]-dt*math.cos(angle)*v[2]
+				element.center[1]=element.center[1]+dt*math.sin(angle)*v[2] -- Get the displacement on X
+				element.center[2]=element.center[2]-dt*math.cos(angle)*v[2] -- Get the displacement on y
 				-- if angle >= 2*math.pi then
 				-- 	angle = 0
 				-- end
@@ -52,7 +52,7 @@ function love.update(dt)
 		end
 	end
 	
-	local temp_vertice={p_vertice[1]*math.cos(element.o)-p_vertice[2]*math.sin(element.o),p_vertice[1]*math.sin(element.o)+p_vertice[2]*math.cos(element.o),
+	local temp_vertice={p_vertice[1]*math.cos(element.o)-p_vertice[2]*math.sin(element.o),p_vertice[1]*math.sin(element.o)+p_vertice[2]*math.cos(element.o),--Using matrix mutiplication to calculate the coordinates of the vertices
 				    	p_vertice[3]*math.cos(element.o)-p_vertice[4]*math.sin(element.o),p_vertice[3]*math.sin(element.o)+p_vertice[4]*math.cos(element.o),
 						p_vertice[5]*math.cos(element.o)-p_vertice[6]*math.sin(element.o),p_vertice[5]*math.sin(element.o)+p_vertice[6]*math.cos(element.o)}
 	p_vertice=temp_vertice
