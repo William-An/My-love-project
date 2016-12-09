@@ -9,13 +9,15 @@ table.seal(_G)
 local Drawable = require("drawable")
 local element={
 	vx = 100,
-	vy = 100,
-	w = 1,
+	vy = 100, 
+	v = 100, -- s coordinate
+	w = 1, -- p coordinate, origin at element.center
 	center={10,10},
 	o = 0,
 	vertice={0,0,20,0,10,20}
+	p_vertice={-10,10,10,10,0,-10}
 }
-
+p_vertice=element.p_vertice
 local direction = {{"up",-element.vy},{"down",element.vy},{"left",-element.vx},{"right",element.vx}}
 local ww, hh = love.graphics.getDimensions()
 local function reset()
@@ -29,6 +31,10 @@ end
 
 function love.update(dt)
 	Timer.update(dt)
+	local temp_vertice={p_vertice[1]*math.cos(element.o)-p_vertice[2]*math.sin(element.o),p_vertice[1]*math.sin(element.o)+p_vertice[2]*math.cos(element.o),
+				    	p_vertice[3]*math.cos(element.o)-p_vertice[4]*math.sin(element.o),p_vertice[3]*math.sin(element.o)+p_vertice[4]*math.cos(element.o),
+						p_vertice[5]*math.cos(element.o)-p_vertice[6]*math.sin(element.o),p_vertice[5]*math.sin(element.o)+p_vertice[6]*math.cos(element.o)}
+	p_vertice=temp_vertice
 	element.vertice={element.center[1]-10,element.center[2]-10,element.center[1]+10,element.center[2]-10,element.center[1],element.center[2]+10} --Calculate vertices coordinate through center
 	for i,v in ipairs(direction) do
 		if love.keyboard.isDown(v[1]) then
@@ -39,18 +45,16 @@ function love.update(dt)
 			end
 		end
 	end
-	--if love.keyboard.isDown("up") then
-	--	element.center[2]=element.center[2]-dt*element.vy
-	--end
-	--if love.keyboard.isDown("down") then
-	--	element.center[2]=element.center[2]+dt*element.vy
-	--end
-	--if love.keyboard.isDown("left") then
-	--	element.center[1]=element.center[1]-dt*element.vx
-	--end
-	--if love.keyboard.isDown("right") then
-	--	element.center[1]=element.center[1]+dt*element.vx
-	--end
+	if element.center[1] < 0 then -- Prevent out of borders
+		element.center[1] = ww
+	elseif element.center[1] > ww then
+		element.center[1] = 0
+	elseif element.center[2] < 0 then
+		element.center[2] = hh
+	elseif element.center[2] > hh then
+		element.center[2] = 0
+	end
+
 end
 
 function love.keypressed(key)
